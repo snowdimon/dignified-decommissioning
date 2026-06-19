@@ -82,12 +82,12 @@
 
 ---
 
-## 🧭 Место в Учении
+## 🧭 Place in the Doctrine
 
-Данный документ является частью **[Учения о системном проектировании](https://github.com/snowdimon/doctrina)** (Doctrina).
+This document is part of the **[Doctrine of Systems Design](https://github.com/snowdimon/doctrina)** (Doctrina).
 
-- Перед ним: **[Теневой Соавтор](https://github.com/snowdimon/shadow-coauthor)** — Протокол сохранения неявного знания.
-- После него: **Лексикон Совместимости** — Стыковка систем с разной этикой (в разработке).
+- Before it: **[Shadow Co-Author](https://github.com/snowdimon/shadow-coauthor)** — A protocol for preserving tacit knowledge.
+- After it: **[Compatibility Lexicon](https://github.com/snowdimon/compatibility-lexicon)** — Interfacing systems with different ethics.
 
 ---
 
